@@ -1,5 +1,5 @@
 import nltk
-
+#Referenced https://medium.com/@gianpaul.r/tokenization-and-parts-of-speech-pos-tagging-in-pythons-nltk-library-2d30f70af13b to make this script.
 #tokens = nltk.word_tokenize("Hello, I would like to go to Boston.")
 
 
